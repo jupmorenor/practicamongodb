@@ -1,0 +1,23 @@
+{
+  "name": "practicamongodb",
+  "version": "1.0.0",
+  "description": "Capitulo 7: intro a MongoDB",
+  "main": "web.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jupmorenor/practicamongodb.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Heroku"
+  ],
+  "author": "Juan Pablo Moreno Rico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jupmorenor/practicamongodb/issues"
+  },
+  "homepage": "https://github.com/jupmorenor/practicamongodb#readme",
+  "dependencies": {
+    "mongodb": "^2.2.11"
+  }
+}
